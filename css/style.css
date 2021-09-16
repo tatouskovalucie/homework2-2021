@@ -1,7 +1,7 @@
 body{
     background: #000000;
     color: #ffffff;
-    font-family:"Times New Roman", Times, sans-serif;
+    font-family:"Times New Roman", sans-serif;
 }
 
 h1{
@@ -56,5 +56,7 @@ div{height: auto;
 }
 
 footer{
-    padding: 0px 10px 10px 0px;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-right: 10px;
 }
